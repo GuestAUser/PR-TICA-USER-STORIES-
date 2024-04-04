@@ -7,12 +7,15 @@ Caso.1
 Teste de aceitação.1
 
 Caso.2
+
 Teste de aceitação.2
 
 Caso.3
+
 Teste de aceitação.3
 
 Caso.4
+
 Teste de aceitação.4
 
 Caso.5
