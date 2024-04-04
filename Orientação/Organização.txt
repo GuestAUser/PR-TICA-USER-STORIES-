@@ -1,0 +1,31 @@
+Grupo: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
+
+Product Owner - PO 
+pessoa 1
+
+Scrum Master - SM.
+pessoa 2
+
+para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
+
+Caso.1
+
+Teste de aceitação.1
+
+Caso.2
+
+Teste de aceitação.2
+
+Caso.3
+
+Teste de aceitação.3
+
+Caso.4
+
+Teste de aceitação.4
+
+Caso.5
+
+Teste de aceitação.5
+
+Ao final, enviar o projeto para julio.vilela@prof.una.br 
