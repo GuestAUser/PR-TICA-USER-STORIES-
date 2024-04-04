@@ -1,6 +1,14 @@
 Grupo: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
 
- para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
+
+
+Product Owner - PO 
+pessoa 1
+
+Scrum Master - SM.
+pessoa 2
+
+para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
 
 Caso.1
 
