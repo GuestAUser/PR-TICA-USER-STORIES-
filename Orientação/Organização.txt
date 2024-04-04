@@ -1,17 +1,11 @@
 Grupo: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
 
 
-
 Product Owner - PO 
-pessoa 1
+Hiago de Mendonça
 
 Scrum Master - SM.
-pessoa 2
-
-O PO deseja que seja desenvolvido um aplicativo e website para a sua empresa que é responsável pelo anúncio de vagas de emprego online em outras empresas e cadastro de informações dos candidatos, bem como a inscrição no processo seletivo e acompanhamento. 
-
-O PO deve ser entrevistado pelo time Scrum para o entendimento e mapeamento das necessidades iniciais e prioritárias desse produto.
-
+Tales Costa
 
 Caso.1
 
