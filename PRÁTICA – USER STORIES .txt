@@ -1,4 +1,7 @@
-Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
+Grupos: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
+
+Cada time deve criar um documento/cronograma (GIYHUB?) para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
+
 1
 
 2
@@ -8,3 +11,5 @@ Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago
 4
 
 5
+
+Ao final, enviar o projeto para julio.vilela@prof.una.br 
