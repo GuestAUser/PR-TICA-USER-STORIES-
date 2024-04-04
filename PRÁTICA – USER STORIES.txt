@@ -8,7 +8,10 @@ pessoa 1
 Scrum Master - SM.
 pessoa 2
 
-para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
+O PO deseja que seja desenvolvido um aplicativo e website para a sua empresa que é responsável pelo anúncio de vagas de emprego online em outras empresas e cadastro de informações dos candidatos, bem como a inscrição no processo seletivo e acompanhamento. 
+
+O PO deve ser entrevistado pelo time Scrum para o entendimento e mapeamento das necessidades iniciais e prioritárias desse produto.
+
 
 Caso.1
 
