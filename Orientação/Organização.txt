@@ -39,8 +39,6 @@ Teste de aceitação.3
 
 Caso.4
 
-Inscrição em Vagas
-
     Como um candidato, desejo poder me inscrever em vagas de emprego de forma rápida e simples.
 
 Teste de aceitação.4
@@ -59,4 +57,5 @@ Teste de aceitação.5
     Verificar se o histórico de candidaturas está sendo corretamente registrado e exibido.
     Garantir que o usuário recebe notificações de mudanças no status de suas candidaturas.
 
-Ao final, enviar o projeto para julio.vilela@prof.una.br 
+Ao final, enviar o projeto para julio.vilela@prof.una.br
+
