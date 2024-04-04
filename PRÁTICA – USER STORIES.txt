@@ -1,4 +1,4 @@
-Grupos: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
+Grupo: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes, Hiago de Mendonça, Davi Azevedo, Tales Costa
 
  para o Product Backlog com 5 User Stories e 1 teste de aceitação com casos de teste para cada User Story. 
 
