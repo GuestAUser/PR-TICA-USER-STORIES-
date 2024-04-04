@@ -3,10 +3,10 @@ Grupo: Samira Rodrigues, Beatriz Beraldo, Bernardo Vieira, João Pedro Fernandes
 
 
 Product Owner - PO 
-pessoa 1
+Hiago de Mendonça
 
 Scrum Master - SM.
-pessoa 2
+Tales Costa
 
 O PO deseja que seja desenvolvido um aplicativo e website para a sua empresa que é responsável pelo anúncio de vagas de emprego online em outras empresas e cadastro de informações dos candidatos, bem como a inscrição no processo seletivo e acompanhamento. 
 
